@@ -1,0 +1,3 @@
+Cocacola[Mass: 2L Price: 3$ Category: Drink Card: BronzeCard New price: 2.7$]
+Fanta[Mass: 1.5L Price: 2.4$ Category: Drink Card: BronzeCard New price: 2.16$]
+Pizza[Mass: 0.2Kg Price: 10$ Category: Food Card: BronzeCard New price: 9$]
